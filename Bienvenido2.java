@@ -21,7 +21,7 @@ public class Bienvenido2 {
 
         producto = numero1 * numero2 *numero3;
 
-        System.out.printf("El producto es %d\n", producto);
+        System.out.printf("El producto es: " + producto);
 
     }
 
